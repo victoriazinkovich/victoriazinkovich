@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me **zinkovich.vs@phystech.edu**
+How to reach me **viktoriia.zinkovich@skoltech.ru**
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
