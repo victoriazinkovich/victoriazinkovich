@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-How to reach me $-$ **viktoria.zinkovich@gmail.com**
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
